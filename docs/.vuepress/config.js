@@ -1,6 +1,7 @@
 module.exports = {
   title: 'zutai-doc',
   description: '组态文档',
+  serviceWorker: true,
   // dest: './docs/.vuepress/dist',  // 设置输出目录
   base: '/zutai-doc/',
   themeConfig: {
