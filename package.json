@@ -1,0 +1,26 @@
+{
+  "name": "zutai-doc",
+  "version": "1.0.0",
+  "description": "组态的一个文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahngjjj/zutai-doc.git"
+  },
+  "keywords": [
+    "组态"
+  ],
+  "author": "zhangjinjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahngjjj/zutai-doc/issues"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  }
+}
